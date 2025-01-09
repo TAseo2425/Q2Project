@@ -1,0 +1,77 @@
+body{
+		background-color: #C3552B;
+		font-family: "Poppins", serif;
+  		font-weight: 300;
+  		font-style: normal;
+		color: white;
+		text-align: center;
+	}
+	.navbar-brand img{
+		width: 50px;
+		border-radius: 10px;
+	}
+	*{
+		margin: auto;
+	}
+	#categories{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		min-height: ;
+	}
+	#categories div{
+		height: 150px;
+		width: 300px;
+		background-color: #100000;
+		margin-top: 60px;
+		margin-left: 60px;
+		margin-right: 60px;
+		text-align: center;
+		padding: 15px;
+		border-radius: 10px;
+	}
+
+	#row1{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	#row1 div{
+		height: 300px;
+		width: 300px;
+		background-color: #000000;
+		margin-top: 20px;
+		margin-left: 60px;
+		margin-right: 60px;
+		text-align: center;
+		padding: 15px;
+		border-radius: 10px;
+	}
+	#row1 img{
+		height: 170px;
+		border-radius: 10px;
+	}
+	.about{
+		border-radius: 10px;
+		margin: 200px;
+		background-color: #EBB8B5;
+		color: black;
+	}
+	#about{
+		padding: 20px;
+	}
+	#recipe{
+		padding: 100px;
+		padding-top: 35px
+	}
+
+	li{
+		text-align: left;
+	}
+	h4{
+		padding: 10px;
+	}
+	#submit{
+		margin: 10px;
+	}
+
